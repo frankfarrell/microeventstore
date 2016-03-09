@@ -1,0 +1,6 @@
+rootProject.name = 'microeventstore'
+
+include 'EventStore'
+include 'Services'
+include 'Services:Server'
+
