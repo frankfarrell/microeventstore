@@ -3,4 +3,5 @@ rootProject.name = 'microeventstore'
 include 'EventStore'
 include 'Services'
 include 'Services:Server'
+include 'Services:Consumer'
 
